@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "skeleton-for-hybrid-applications-vue-or-other",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
